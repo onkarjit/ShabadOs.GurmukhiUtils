@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net5.0;netcoreapp3.1;netcoreapp3.0</TargetFrameworks>
+        <Title>GurmukhiUtils</Title>
+        <Authors>Onkarjit Singh</Authors>
+        <Description>This is a rewrite of Shabad OS's gurmukhi-utils to C#. Gurmukhi Utils are general utilities for working with Gurmukhi text data.</Description>
+        <Copyright>ShabadOS</Copyright>
+        <RepositoryUrl>https://github.com/onkarjit/GurmukhiUtils</RepositoryUrl>
+        <PackageTags>Gurmukhi;Sikhism;ShabadOS</PackageTags>
+        <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+        <LangVersion>latest</LangVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.1</PackageVersion>
+    </PropertyGroup>
+</Project>
